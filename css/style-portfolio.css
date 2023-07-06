@@ -1,6 +1,9 @@
 
 /** page structure **/
-
+    #tidio-chat-iframe { bottom: 50px !important; }
+                         @media only screen and (max-width: 980px) {
+                         #tidio-chat-iframe { bottom: 80px !important;}
+    }
 #content_menu{
 	margin:50px auto;
 	text-align: center;
