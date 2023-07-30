@@ -341,7 +341,9 @@ social_icons {
 
 .ico-twitter1 {
 	background: #31788f;
-    margin: 0.5px;
+        margin-top: 0.4px;
+        margin-bottom: 0.4px
+;
 }
 .ico-google-plus {
 	background: #31788f;
