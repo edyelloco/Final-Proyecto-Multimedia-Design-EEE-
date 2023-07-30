@@ -336,20 +336,17 @@ social_icons {
 	padding: .5rem;
 	display: flex;
 	transition: all .05s;
-
 }
 
 .ico-twitter1 {
 	background: #31788f;
-        margin-top: 0.4px;
-        margin-bottom: 0.6px
-;
+    margin-top: 0.4px;
+    margin-bottom: 0.6px;   
 }
 .ico-google-plus {
 	background: #31788f;
-    margin: 0.3px;
+    margin-top: 0.6px; 
   }
-  
   .ico-facebook1 {
 	background: #31788f;
      margin-top: 0.6px;   
@@ -372,6 +369,7 @@ social_icons {
 	background: #31788f;
      margin-top: 0.4px;   
 }
+
 
 .ico:first-child {
 	border-radius: .3rem 0 0 0;
